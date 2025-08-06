@@ -1,7 +1,12 @@
+# Gestion des incidents techniques
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![React](https://img.shields.io/badge/Frontend-React-blue)
 ![Spring Boot](https://img.shields.io/badge/Backend-SpringBoot-green)
-Ce projet est une application web de gestion des incidents techniques au sein de l'aéroport, développée dans le cadre d’un stage pédagogique.
+![GitHub Repo stars](https://img.shields.io/github/stars/RihabCQ/Gestion-incidents-techniques?style=social)
+![GitHub forks](https://img.shields.io/github/forks/RihabCQ/Gestion-incidents-techniques?style=social)
+
+Ce projet est une application web de gestion des incidents techniques au sein de l’aéroport, développée dans le cadre d’un stage pédagogique.
 
 ## ✈️ Objectif du projet
 
