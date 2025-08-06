@@ -1,8 +1,7 @@
-# Gestion des Incidents Techniques – Aéroport
 
 Ce projet est une application web de gestion des incidents techniques au sein de l'aéroport, développée dans le cadre d’un stage pédagogique.
 
-## ✈ Objectif du projet
+## ✈️ Objectif du projet
 
 Permettre au personnel technique de :
 - Signaler un incident
@@ -13,7 +12,7 @@ Permettre au personnel technique de :
 
 ---
 
-## 🛠 Technologies utilisées
+## 🛠️ Technologies utilisées
 
 ### Backend (Java Spring Boot)
 - Spring Boot 3
@@ -30,4 +29,38 @@ Permettre au personnel technique de :
 
 ---
 
-## 📂 Structure du projet
+## 📂 Structure du projet
+
+ma-gestion-incidents/
+│
+├── gtincident/                          # Projet backend (Spring Boot)
+│   ├── src/
+│   └── pom.xml
+│
+└── gestion-incidents-react/
+    └── gestion-incidents-frontend/     # Projet frontend (ReactJS)
+        ├── src/
+        └── package.json
+
+---
+
+## 🚀 Démarrage
+
+### 1. Backend
+```bash
+cd gtincident
+./mvnw spring-boot:run
+```
+
+### 2. Frontend
+```bash
+cd gestion-incidents-react/gestion-incidents-frontend
+npm install
+npm start
+```
+
+---
+
+## 🧠 Auteure
+
+Rihab Charouq – Stage pédagogique 2025 – Projet de gestion des incidents techniques.
