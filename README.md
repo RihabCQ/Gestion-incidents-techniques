@@ -1,4 +1,6 @@
-
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Spring Boot](https://img.shields.io/badge/Backend-SpringBoot-green)
 Ce projet est une application web de gestion des incidents techniques au sein de l'aéroport, développée dans le cadre d’un stage pédagogique.
 
 ## ✈️ Objectif du projet
