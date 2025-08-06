@@ -1,0 +1,19 @@
+# === BACKEND (Spring Boot) ===
+/gtincident/target/
+/gtincident/.classpath
+/gtincident/.project
+/gtincident/.settings/
+/gtincident/*.iml
+
+# === FRONTEND (React) ===
+/gestion-incidents-react/gestion-incidents-frontend/node_modules/
+/gestion-incidents-react/gestion-incidents-frontend/.env
+/gestion-incidents-react/gestion-incidents-frontend/build/
+
+# === GENERAL ===
+*.log
+*.zip
+.DS_Store
+.env
+.idea/
+.vscode/
